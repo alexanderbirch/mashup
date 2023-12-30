@@ -6,9 +6,9 @@
     npm test  (run test suite)
 
 ## Fetching data
-    Musicbrainz $\to$ (Wikidata $\to$) Wikipedia + CovertArtArchive*
-    $\to$ wait
-    $+$ asyncronous
+- Musicbrainz $\to$ (Wikidata $\to$) Wikipedia + CovertArtArchive*
+- $\to$ wait
+- $+$ asyncronous
 
 ## Tech stack
 
